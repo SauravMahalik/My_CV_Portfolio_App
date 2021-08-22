@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyIntro_App</string>
+
+    <string name="lorem_text">HELLO !! I welcome you to my Application. Please go through the interface and use the Side Menu on the left side of the screen to Navigate through different pages. SWITCH to DARK MODE from PHONE SETTINGS for Better Visuals. Lets Start !!!</string>
+    <string name="job_name">Android App Developer &amp; Programmer</string>
+    <string name="lorem_text2">I am presently pursuing B.Tech in Computer Science &amp; Engineering through IIIT BHUBANESWAR. Through this application you can know more about Me and My skills in technical field.</string>
+    <string name="name">Saurav\nMahalik</string>
+    <string name="current_job_post">Current Status</string>
+    <string name="diploma">Welcome to MyIntroApp !! </string>
+    <string name="lorem_text3">The greatest glory in living lies not in never falling, but in rising every time we fall. </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_text4">Hello. I welcome you to my Application. Please go through the page of the application. Hereby, I welcome you all to my Self Introduction App.</string>
+    <string name="lorem_text5">Saurav Mahalik\nFather\'s Name: Shyam Sundar Mahalik\nMother\'s Name: Babita Mahalik</string>
+    <string name="lorem_text6">21 years </string>
+    <string name="lorem_text7">29th January, 2000\n(29.01.2000) </string>
+    <string name="lorem_text8">Artistic activities such as painting or graphic design, Team or individual sports, Exercising and healthcare, Cooking </string>
+    <string name="lorem_text9">I am able to handle Multiple Tasks on a daily basis, always energetic &amp; eager to learn new skills. I am a Honest and Loyal person. I am always the first person my friends call because they know I am always there for them. I put the same effort into making sure my work is done correctly. I was in the playing-11 at state level U-19 &amp; national level qualifier in U-19 India in Cricket. </string>
+    <string name="lorem_text10"> 1 -----\n2 ----- \n3 ----- \n4 Excellent \n5 ----- </string>
+    <string name="lorem_text11"> 1 -----\n2 ----- \n3 ----- \n4 Excellent \n5 ----- </string>
+    <string name="lorem_text12"> 1 -----\n2 ----- \n3 Average \n4 ----- \n5 ----- </string>
+    <string name="lorem_text13"> 1 -----\n2 Amateur \n3 ----- \n4 ----- \n5 ----- </string>
+    <string name="lorem_text14"> 1 -----\n2 ----- \n3 ----- \n4 Excellent \n5 ----- </string>
+    <string name="lorem_text15"> 1 -----\n2 ----- \n3 ----- \n4 Excellent \n5 ----- </string>
+    <string name="lorem_text16"> 1 -----\n2 Amateur \n3 ----- \n4 ----- \n5 ----- </string>
+    <string name="lorem_text17"> 1 -----\n2 ----- \n3 ----- \n4 Excellent \n5 ----- </string>
+    <string name="lorem_text18"> 1 -----\n2 ----- \n3 ----- \n4 Excellent \n5 ----- </string>
+    <string name="lorem_text19"> 1 -----\n2 ----- \n3 Average \n4 ----- \n5 ----- </string>
+    <string name="lorem_text20">Welcome !! This screen guides you with my present CODING LANGUAGE skills. Below Each field is the amount of expertise and current status in that particular field. SCROLL DOWN for Details. Working Hard to achieve and aspire !!.</string>
+    <string name="lorem_text21">If there’s one page that can serve as a goldmine for your website – it’s not your product pages or the check out page, rather… it’s the ‘thank you’ page.\n\nTHANK YOU FOR YOUR TIME !!!.\n\nCALL :- +91 7978162052\n\nIn each box below lies my Social Network &amp; Technical network platforms for contact. </string>
+    <string name="platform1">https://github.com/SauravMahalik </string>
+    <string name="platform2">https://www.linkedin.com/in/saurav-mahalik-7186b1206 </string>
+    <string name="platform3">https://www.facebook.com/sauravmahalik/ </string>
+    <string name="platform4">https://www.instagram.com/saurav_mahalik/ </string>
+    <string name="platform5">MY SOCIAL NETWORK\nLINKS :</string>
+
+</resources>

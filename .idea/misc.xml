@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/circle_cv.xml" value="0.2703125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_baseline_dashboard_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_baseline_schedule_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_baseline_watch_later_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_baseline_work_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/oval.xml" value="0.2703125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/drawable/team_card_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/fragment_c_v.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/fragment_contacts.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/fragment_portfolio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/fragment_portfolio_details.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/fragment_team.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/item_cv.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/item_menu.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/item_portfolio.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/layout/item_team.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyIntro_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
